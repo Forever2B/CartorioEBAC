@@ -8,7 +8,7 @@ sinta-se livre para reutilizar o código em seus próprios trabalhos e apontas p
 
 
 
-  O programa tem 4 opções base em seu menu.
+  O programa tem 4 opções base em seu menu:
 
 1- Registrar nomes (Registra informações usando o CPF como base pra criar um arquivo TXT único com os dados dentro)
 
@@ -28,7 +28,7 @@ feel free to reuse the code in your own work and point out possible errors in st
 
 
 
-  The program has 4 basic options in its menu. (the program is in Portuguese)
+  The program has 4 basic options in its menu: (the program is in Portuguese)
 
 1- Registrar nomes (Record information using the CPF as a basis to create a unique TXT file with the data inside)
 
