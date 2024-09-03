@@ -36,3 +36,4 @@ feel free to reuse the code in your own work and point out possible errors in st
 4- Sair do programa (exit the program) 
 
 03/09/2024
+--------------------------------------------------------------------------------------------------------------------------------
