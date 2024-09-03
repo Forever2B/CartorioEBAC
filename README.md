@@ -27,7 +27,7 @@ feel free to reuse the code in your own work and point out possible errors in st
 
   The program has 4 basic options in its menu. (the program is in Portuguese)
 
-1- Registrar noems (Record information using the CPF as a basis to create a unique TXT file with the data inside)
+1- Registrar nomes (Record information using the CPF as a basis to create a unique TXT file with the data inside)
 
 2- Consultar nomes (Consult all the data for a specific CPF by printing on the screen)
 
