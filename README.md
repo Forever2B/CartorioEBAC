@@ -1,6 +1,6 @@
 # CartorioEBAC
 Projeto da EBAC - [ 01 ]
-
+[PT]
   Este é um projeto criado por mim para fins didáticos dentro do curso de TI da EBAC.
 sinta-se livre para reutilizar o código em seus próprios trabalhos e apontas possíveis erros de estrutura/lógica.
 
